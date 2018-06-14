@@ -121,5 +121,20 @@ Sources : https://fr.wikipedia.org/wiki/Projet_GNU
 Le projet GNU est un projet informatique dont les premiers développements ont été réalisés en janvier 1984 par Richard Stallman pour développer le système d’exploitation GNU. Le projet est maintenu par une communauté de hackers organisée en sous-projets. Chaque brique du projet est un logiciel libre utilisable de par sa nature dans des projets tiers, mais dont la finalité est de s’inscrire dans une logique cohérente avec l’ensemble des sous-projets en vue de la réalisation d’un système d’exploitation complet et entièrement libre, et avec pour stratégie, l’utilisation de l’existant.
 
 
+- Quelles sont les différences entre le Http et le Https ?
+
+Sources : http://www.webmaster-freelance.cm/blog/referencement-web/difference-entre-http-et-https/
+
+HTTP (HyperText Transport Protocol) et HTTPS (HyperText Transport Protocol Secure) sont tous deux des protocoles de communication client-serveur. Leur but étant de permettre un transfert de fichiers localisés grâce à une chaine de caractères appelée URL, entre un navigateur web (Client) et un serveur web.
+
+Référencement : les pages HTTPS sont mieux positionnées dans les Serp par rapport au pages HTTP.
+
+Le schéma d’URL : Les URLs HTTPS commencent par « https: // » et utilisent le port 443 par défaut, tandis que les URLs HTTP commencent par « http:// » et utilisent le port 80.
+
+La sécurité : HTTP n’est pas sécurisé et est soumis à de nombreuses attaques, qui peuvent laisser des attaquants avoir accès à des informations sensibles, en revanche un site Web tout en HTTPS est conçu pour résister et protéger contre de telles attaques.
+
+Les couches réseau : HTTP fonctionne sur la couche la plus élevée du modèle TCP/IP qui est la couche application. Le protocole sécurisé SSL lui fonctionne comme une sous-couche inférieure du même modèle TCP/IP mais il crypte le message HTTP avant sa transmission et la déchiffre à l’arrivée. On peut donc dire que HTTPS n’est pas un protocole séparé, mais se réfère à l’utilisation du HTTP ordinaire via une connexion SSL cryptée.
+
+
 
 
