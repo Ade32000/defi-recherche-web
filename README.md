@@ -165,4 +165,18 @@ Sources : https://openclassrooms.com/courses/protegez-vous-efficacement-contre-l
 L'attaque par force brute est une technique relativement courante, mais qui nécessite beaucoup de temps d'exécution. Le hacker crée un formulaire identique à celui de votre site, puis avec un script il essaye toutes les combinaisons de mots de passe possibles et imaginables. Il existe une autre technique de bruteforce où le hacker se base sur d'énormes dictionnaires contenant des millions voire milliards de mots de passe régulièrement utilisés.
 
 
+- Qui est Linus Torvalds ?
+
+    -Quels sont ses plus grands développements ?
+
+Sources : https://fr.wikipedia.org/wiki/Linus_Torvalds
+
+Linus Benedict Torvalds, né le 28 décembre 1969 à Helsinki en Finlande, est un informaticien américano-finlandais1,2.
+
+Il est connu pour avoir créé en 1991 (à 22 ans) le noyau Linux dont il continue de diriger le développement. Il en est considéré comme le « dictateur bienveillant ».
+
+Il a également créé le logiciel de gestion de versions décentralisée Git et le logiciel d'enregistrement et de planification des plongées Subsurface (en). Il a été honoré, avec Shinya Yamanaka, du prix Millennium Technology, en 2012, décerné par la Technology Academy Finland (en) « en reconnaissance pour sa création d'un nouveau système d'exploitation open source pour les ordinateurs ayant conduit au noyau Linux, largement utilisé3. ». Il est également lauréat 2014 du Computer Pioneer Award, décerné par l'IEEE Computer Society4.
+
+
+
 
