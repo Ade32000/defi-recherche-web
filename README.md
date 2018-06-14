@@ -151,6 +151,14 @@ les bang permettent d'effectuer des requêtes redirigeant vers d'autres moteurs 
 C'est un mode de recherche qui ouvre directement la page arrivant en tête des résultats, sans passer par la liste des propositions.
 
 
+- Qui est Marissa Mayer ?
+
+Sources : https://fr.wikipedia.org/wiki/Marissa_Mayer
+
+Marissa Ann Mayer, née le 30 mai 1975 à Wausau dans le Wisconsin, est une informaticienne et chef d'entreprise américaine. Après 13 ans passés chez Google en tant que vice-présidente1 responsable des services de cartographie et de géolocalisation2, elle occupe de 2012 à 2017 le poste de PDG de Yahoo!.
+
+
+
 
 
 
