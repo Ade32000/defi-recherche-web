@@ -136,5 +136,13 @@ La sécurité : HTTP n’est pas sécurisé et est soumis à de nombreuses attaq
 Les couches réseau : HTTP fonctionne sur la couche la plus élevée du modèle TCP/IP qui est la couche application. Le protocole sécurisé SSL lui fonctionne comme une sous-couche inférieure du même modèle TCP/IP mais il crypte le message HTTP avant sa transmission et la déchiffre à l’arrivée. On peut donc dire que HTTPS n’est pas un protocole séparé, mais se réfère à l’utilisation du HTTP ordinaire via une connexion SSL cryptée.
 
 
+Qui est Richard Stallman ?
+
+Sources : https://fr.wikipedia.org/wiki/Richard_Stallman
+
+Richard Matthew Stallman (né à Manhattan, le 16 mars 1953), connu aussi sous les initiales rms (en minuscules1), est un programmeur et militant du logiciel libre. Initiateur du mouvement du logiciel libre, il lance, en 1983, le projet GNU et la licence publique générale GNU connue aussi sous l’acronyme GPL. Il a popularisé le terme anglais « copyleft »2. Programmeur renommé de la communauté informatique américaine et internationale, il a développé de nombreux logiciels dont les plus connus des développeurs sont l’éditeur de texte GNU Emacs, le compilateur C de GNU (GCC), le débogueur GNU (gdb) mais aussi, en collaboration avec Roland McGrath, le moteur de production GNU Make.
+
+
+
 
 
