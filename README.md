@@ -178,5 +178,8 @@ Il est connu pour avoir créé en 1991 (à 22 ans) le noyau Linux dont il contin
 Il a également créé le logiciel de gestion de versions décentralisée Git et le logiciel d'enregistrement et de planification des plongées Subsurface (en). Il a été honoré, avec Shinya Yamanaka, du prix Millennium Technology, en 2012, décerné par la Technology Academy Finland (en) « en reconnaissance pour sa création d'un nouveau système d'exploitation open source pour les ordinateurs ayant conduit au noyau Linux, largement utilisé3. ». Il est également lauréat 2014 du Computer Pioneer Award, décerné par l'IEEE Computer Society4.
 
 
+- Combien coûte un nom de domaine ?
 
+Sources : http://www.top10hebergeurs.com/guide/hebergement-web/le-vrai-cout-dun-nom-de-domaine/
 
+Le coût d’un nom de domaine est largement tributaire de la nature du domaine. Un domaine en .info peut coûter moins de 1 $, et un domaine .com, avec l’option whois privé peut coûter jusqu’à 30 $ selon le registrar.
