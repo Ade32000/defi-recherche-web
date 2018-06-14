@@ -97,6 +97,16 @@ La mélée : 22 - 28 sept 2018 LE FESTIVAL DE L'HOMO NUMERICUS
 et bien d'autres...
 
 
+- Quels sont les prochains rendez-vous tech de Toulouse ?
+
+Sources : https://www.programmez.com/actualites/devfest-toulouse-2018-27629 , https://www.lemondeinformatique.fr/agenda/agenda-page-3.html
+
+8 Nov 2018 DevFest Toulouse 2018
+29 Nov 2018 : IT Tour Toulouse 
+
+
+
+
 
 
 
