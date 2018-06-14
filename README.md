@@ -114,7 +114,11 @@ Aaron Swartz, né le 8 novembre 1986 à Chicago et mort le 11 janvier 2013 à Ne
 Fervent partisan de la liberté numérique, il consacra sa vie à la défense de la « culture libre », convaincu que l'accès à la connaissance est un moyen d'émancipation et de justice.
 
 
+- Qu’est-ce que le projet GNU ?
 
+Sources : https://fr.wikipedia.org/wiki/Projet_GNU
+
+Le projet GNU est un projet informatique dont les premiers développements ont été réalisés en janvier 1984 par Richard Stallman pour développer le système d’exploitation GNU. Le projet est maintenu par une communauté de hackers organisée en sous-projets. Chaque brique du projet est un logiciel libre utilisable de par sa nature dans des projets tiers, mais dont la finalité est de s’inscrire dans une logique cohérente avec l’ensemble des sous-projets en vue de la réalisation d’un système d’exploitation complet et entièrement libre, et avec pour stratégie, l’utilisation de l’existant.
 
 
 
