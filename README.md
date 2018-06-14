@@ -78,5 +78,25 @@ Sources : https://secouchermoinsbete.fr/1242-pourquoi-parleton-de-bogue-informat
 Si on parle de bogue informatique (bug en anglais, qui se traduit par "insecte"), c'est parce que dans les années 40, à l'époque où les ordinateurs étaient volumineux et fonctionnaient avec des ampoules, la chaleur attirait les insectes (notamment des cafards) qui développaient de vraies colonies dans ces ordinateurs, et occasionnaient des malfonctions.
 
 
+- Quels sont les communautés de développeurs à Toulouse et quels sont leurs prochains évènements ?
+
+Sources : https://2017.devfesttoulouse.fr/ , https://www.meetup.com/
+
+TDS (Toulouse Data science) : 18 juin 2018 MeetUp Deep Learning/Reinforced Learning & Trading
+Toulouse jug (java user group) :
+PostgreSQL User group : 
+Duchess France : 
+Toulouse JS : 
+Toulouse DevOps : 21 juin 2018 Infrastructure as Code avec Terraform, Packer, Ansible et Powershell DSC
+Swift Toulouse : 
+Pitch me up : 
+Association JS & Co. Toulouse : 
+GDG Toulouse
+Simplon occitanie
+La mélée : 22 - 28 sept 2018 LE FESTIVAL DE L'HOMO NUMERICUS
+et bien d'autres...
+
+
+
 
 
