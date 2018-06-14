@@ -105,6 +105,15 @@ Sources : https://www.programmez.com/actualites/devfest-toulouse-2018-27629 , ht
 29 Nov 2018 : IT Tour Toulouse 
 
 
+- Qui est Aaron Swartz ?
+
+Sources : https://fr.wikipedia.org/wiki/Aaron_Swartz
+
+Aaron Swartz, né le 8 novembre 1986 à Chicago et mort le 11 janvier 2013 à New York1, était un informaticien, écrivain, militant politique et hacktiviste américain.
+
+Fervent partisan de la liberté numérique, il consacra sa vie à la défense de la « culture libre », convaincu que l'accès à la connaissance est un moyen d'émancipation et de justice.
+
+
 
 
 
