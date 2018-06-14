@@ -32,6 +32,18 @@ Ce sont des adresses ip, un numéro d'identification qui est attribué de façon
     127.0.0.1 = adresse ip local host (localhost est le nom habituel qui désigne une interface logique de l’ordinateur local.)
 
 
+- Que sont le copyright et le copyleft ?
+
+Sources : https://fr.wikipedia.org/wiki/Copyleft
+
+Le copyright, souvent indiqué par le symbole ©, est, dans les pays de common law, l’ensemble des prérogatives exclusives dont dispose une personne physique ou morale sur une œuvre de l’esprit originale. Il désigne donc un ensemble de lois en application, notamment, dans les pays du Commonwealth et aux États-Unis ; et qui diffère du droit d'auteur appliqué dans les pays de droit civil (tels que la France ou la Belgique).
+
+Le copyleft est l'autorisation donnée par l'auteur d'un travail soumis au droit d'auteur (œuvre d'art, texte, programme informatique ou autre) d'utiliser, d'étudier, de modifier et de diffuser son œuvre, dans la mesure où cette même autorisation reste préservée.
+
+
+
+
+
 
 
 
