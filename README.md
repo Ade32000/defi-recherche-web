@@ -48,6 +48,15 @@ Sources : https://fr.wikipedia.org/wiki/Creative_Commons
 Creative Commons (CC) est une association à but non lucratif dont la finalité est de proposer une solution alternative légale aux personnes souhaitant libérer leurs œuvres des droits de propriété intellectuelle standard de leur pays, jugés trop restrictifs.
 
 
+Qui est Grace Hopper ?
+
+Sources : https://fr.wikipedia.org/wiki/Grace_Hopper
+
+Grace Murray Hopper, née le 9 décembre 1906 à New York et morte le 1er janvier 1992 dans le comté d'Arlington, est une informaticienne américaine et Rear admiral (lower half) de la marine américaine. Elle est la conceptrice du premier compilateur en 1951 (A-0 System) et du langage COBOL en 1959.
+
+
+
+
 
 
 
