@@ -158,7 +158,11 @@ Sources : https://fr.wikipedia.org/wiki/Marissa_Mayer
 Marissa Ann Mayer, née le 30 mai 1975 à Wausau dans le Wisconsin, est une informaticienne et chef d'entreprise américaine. Après 13 ans passés chez Google en tant que vice-présidente1 responsable des services de cartographie et de géolocalisation2, elle occupe de 2012 à 2017 le poste de PDG de Yahoo!.
 
 
+- Qu’est-ce qu’une attaque “brute force” ?
 
+Sources : https://openclassrooms.com/courses/protegez-vous-efficacement-contre-les-failles-web/l-attaque-par-force-brute
+
+L'attaque par force brute est une technique relativement courante, mais qui nécessite beaucoup de temps d'exécution. Le hacker crée un formulaire identique à celui de votre site, puis avec un script il essaye toutes les combinaisons de mots de passe possibles et imaginables. Il existe une autre technique de bruteforce où le hacker se base sur d'énormes dictionnaires contenant des millions voire milliards de mots de passe régulièrement utilisés.
 
 
 
