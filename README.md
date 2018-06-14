@@ -41,7 +41,11 @@ Le copyright, souvent indiqué par le symbole ©, est, dans les pays de common l
 Le copyleft est l'autorisation donnée par l'auteur d'un travail soumis au droit d'auteur (œuvre d'art, texte, programme informatique ou autre) d'utiliser, d'étudier, de modifier et de diffuser son œuvre, dans la mesure où cette même autorisation reste préservée.
 
 
+Que sont les Creatives Commons ?
 
+Sources : https://fr.wikipedia.org/wiki/Creative_Commons
+
+Creative Commons (CC) est une association à but non lucratif dont la finalité est de proposer une solution alternative légale aux personnes souhaitant libérer leurs œuvres des droits de propriété intellectuelle standard de leur pays, jugés trop restrictifs.
 
 
 
